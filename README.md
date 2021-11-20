@@ -6,3 +6,4 @@ i made it for test but i will continue this project!
 - better mod support
 - simple mod coding language
 - server software
+- launcher

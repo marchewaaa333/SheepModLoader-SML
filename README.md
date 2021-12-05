@@ -10,3 +10,5 @@ i made it for test but i will continue this project!
 - simple mod coding language
 - server software
 - launcher
+
+# i was working on a lot thing to mod loader
